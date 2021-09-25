@@ -1,1 +1,8 @@
 # Game-StandAlone-MatchTree
+FITUR
+1. MAIN MANU
+2. PILIHAN STAGE
+  2.1 EASY
+  2.2 MEDIUM
+  2.3 HARD
+3. Musik SOUND
